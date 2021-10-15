@@ -1,0 +1,242 @@
+.site41_form_col12_dangkycanhan {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+  overflow: hidden;
+  padding: 86px 0;
+}
+.site41_form_col12_dangkycanhan a {
+  text-decoration: none;
+}
+.site41_form_col12_dangkycanhan .item-register {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form {
+  background: rgba(250, 250, 250, 0.9);
+  padding: 65px 87px 0 88px;
+  width: 50%;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form h2 {
+  font-family: SVN-Poppins-Bold;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 150.19%;
+  text-transform: uppercase;
+  color: #333333;
+  margin-bottom: 27px;
+  text-align: center;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form {
+  color: #4F4F4F;
+  line-height: 150.19%;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input {
+  padding: 12px;
+  width: 100%;
+  margin-bottom: 20px;
+  background: inherit;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  outline: 0;
+  border: 1px solid #E0E0E0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 5px;
+  color: #000;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input:nth-child(1) {
+  background: url("../../images/site47/img_dk1.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-position-x: 96%;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input:nth-child(2) {
+  background: url("../../images/site47/phone_dk1.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-position-x: 96%;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input:nth-child(3) {
+  background: url("../../images/site47/input_img.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-position-x: 96%;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input:nth-child(4) {
+  background: url("../../images/site47/input_img1.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-position-x: 96%;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input:nth-child(5) {
+  background: url("../../images/site47/input_img1.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-position-x: 96%;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input::-webkit-input-placeholder {
+  line-height: 150.19%;
+  color: #BDBDBD;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input::-moz-placeholder {
+  line-height: 150.19%;
+  color: #BDBDBD;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input:-ms-input-placeholder {
+  line-height: 150.19%;
+  color: #BDBDBD;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input::-ms-input-placeholder {
+  line-height: 150.19%;
+  color: #BDBDBD;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input::placeholder {
+  line-height: 150.19%;
+  color: #BDBDBD;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form input::-webkit-input-placeholder {
+  line-height: 150.19%;
+  color: #BDBDBD;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form form button {
+  background: #6EA820;
+  border: 1px solid #E0E0E0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 5px;
+  width: 100%;
+  height: 50px;
+  line-height: 150.19%;
+  color: #FFFFFF;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form .or {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 150.19%;
+  color: #4F4F4F;
+  margin-top: 22px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form a {
+  line-height: 150.19%;
+  color: #FFFFFF;
+  display: inline-block;
+  height: 50px;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form .login_flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 23px;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form .login_flex .btn_f {
+  background: #2275BC;
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 48%;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form .login_flex .btn_f img {
+  margin-right: 20px;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form .login_flex .btn_g {
+  background: #FF6400;
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 48%;
+  margin-left: auto;
+}
+.site41_form_col12_dangkycanhan .item-register .login_form .login_flex .btn_g img {
+  margin-right: 20px;
+}
+.site41_form_col12_dangkycanhan .item-register .img_login {
+  width: 50%;
+}
+.site41_form_col12_dangkycanhan .item-register .img_login img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+@media (max-width: 1199px) {
+  .site41_form_col12_dangkycanhan {
+    padding: 50px 0;
+  }
+  .site41_form_col12_dangkycanhan .item-register .login_form {
+    background: rgba(250, 250, 250, 0.9);
+    padding: 40px;
+    width: 47%;
+  }
+  .site41_form_col12_dangkycanhan .item-register .img_login {
+    width: 53%;
+  }
+  .site41_form_col12_dangkycanhan .item-register .img_login img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+}
+@media (max-width: 991px) {
+  .site41_form_col12_dangkycanhan {
+    padding: 25px 0;
+  }
+  .site41_form_col12_dangkycanhan .item-register {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .site41_form_col12_dangkycanhan .item-register .login_form {
+    padding: 35px;
+    width: 100%;
+  }
+  .site41_form_col12_dangkycanhan .item-register .img_login {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .site41_form_col12_dangkycanhan {
+    padding: 0;
+  }
+  .site41_form_col12_dangkycanhan .item-register {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .site41_form_col12_dangkycanhan .item-register .login_form {
+    padding: 15px;
+  }
+  .site41_form_col12_dangkycanhan .item-register .login_form h2 {
+    margin-bottom: 15px;
+  }
+  .site41_form_col12_dangkycanhan .item-register .login_form .login_flex {
+    margin-bottom: 0px;
+  }
+  .site41_form_col12_dangkycanhan .item-register .img_login {
+    padding: 12px;
+  }
+}

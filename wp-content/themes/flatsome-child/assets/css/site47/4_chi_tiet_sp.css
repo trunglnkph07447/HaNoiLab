@@ -1,0 +1,1546 @@
+.site47_prodel_col12_chitietsanpham {
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.site47_prodel_col12_chitietsanpham .breadcrumb {
+  padding: 25px 0;
+  background-color: #FFFFFF;
+}
+.site47_prodel_col12_chitietsanpham .breadcrumb a {
+  text-decoration: none;
+}
+.site47_prodel_col12_chitietsanpham .item_Information {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column {
+  width: 50%;
+  padding-right: 50px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-single {
+  padding: 42px 0;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-single .img_single {
+  width: 100%;
+  height: 321px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-single .img_single img {
+  width: 100%;
+  height: 100%;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav {
+  margin-bottom: 35px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-list {
+  margin-right: -15px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-list .slick-slide {
+  margin-right: 15px;
+  opacity: 0.4;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-list .slick-slide:last-child {
+  margin: 0;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-list .slick-current {
+  opacity: 1;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-list .slick-current .img_nav {
+  border: 1.5px solid #FF6400;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .img_nav {
+  width: 100%;
+  height: 79px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border: 1.5px solid #E0E0E0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .img_nav img {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-prev {
+  top: 23px;
+  left: 0;
+  z-index: 1;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-prev::after {
+  display: none;
+  content: url("../../images/site47/butt-left1.png");
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-prev::before {
+  content: url("../../images/site47/butt-left.png");
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-prev:hover::after {
+  display: block;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-prev:hover::before {
+  display: none;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-next {
+  top: 23px;
+  right: 18px;
+  z-index: 1;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-next::after {
+  display: none;
+  content: url("../../images/site47/butt-right1.png");
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-next::before {
+  content: url("../../images/site47/butt-right.png");
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-next:hover::after {
+  display: block;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .slider-nav .slick-next:hover::before {
+  display: none;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .item-gift {
+  background: rgba(110, 168, 32, 0.05);
+  padding: 10px;
+  padding-left: 25px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .item-gift .title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-bottom: 1px solid #6EA820;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .item-gift .title img {
+  margin-right: 15px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .item-gift .title h3 {
+  font-family: SVN-Poppins-Medium;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  color: #6EA820;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .item-gift ul {
+  padding-left: 20px;
+  list-style: url("../../images/site47/coolicon4.png");
+}
+.site47_prodel_col12_chitietsanpham .item_Information .column .item-gift ul li {
+  font-family: SVN-Poppins-Regular;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail {
+  width: 50%;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail h1 {
+  font-family: SVN-Poppins-Medium;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 140%;
+  color: #333333;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .gia {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .gia .goc {
+  margin-right: 25px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .gia .goc h4 {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 140%;
+  -webkit-text-decoration-line: line-through;
+          text-decoration-line: line-through;
+  color: #666666;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .gia .sale h3 {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  color: #6EA820;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail p {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  color: #FF6400;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tinhtrang {
+  margin-bottom: 10px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tinhtrang h3 {
+  font-family: SVN-Poppins-Medium;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 17px;
+  color: #333333;
+  margin-bottom: 12px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tinhtrang h3 span {
+  color: #FF6400;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tinhtrang ul {
+  padding-left: 20px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tinhtrang ul li {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  color: #4F4F4F;
+  margin-bottom: 10px;
+  padding-left: 7px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tinhtrang ul li:nth-child(1) {
+  list-style: url("../../images/site47/img20.png");
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tinhtrang ul li:nth-child(2) {
+  list-style: url("../../images/site47/img21.png");
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tinhtrang ul li:nth-child(3) {
+  list-style: url("../../images/site47/img22.png");
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .baohanh {
+  margin-bottom: 10px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .baohanh h3 {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 19px;
+  color: #5A5A5A;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .baohanh ul {
+  list-style: url("../../images/site47/coolicon3.png");
+  padding-left: 20px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .baohanh ul li {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  color: #4F4F4F;
+  margin-bottom: 10px;
+  padding-left: 5px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon h3 {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 19px;
+  color: #5A5A5A;
+  margin-bottom: 12px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul {
+  margin-bottom: 25px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li {
+  width: 100%;
+  position: relative;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li label {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0;
+  border: 1px solid #BDBDBD;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 15px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li label .title-left {
+  padding-right: 25px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li label .title-left p {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 150%;
+  color: #333333;
+  margin-bottom: 0;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li label .title-left h3 {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 24px;
+  color: #333333;
+  margin-bottom: 5px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li label .right {
+  display: -ms-grid;
+  display: grid;
+  height: 60px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li label .right .goc h4 {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 140%;
+  color: #666666;
+  -webkit-text-decoration-line: line-through;
+          text-decoration-line: line-through;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li label .right .sale h3 {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 140%;
+  color: #6EA820;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li label::before {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background: #fff;
+  border: 1px solid #BDBDBD;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-transition: all 0.275s;
+  transition: all 0.275s;
+  bottom: 15px;
+  right: 15px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li label::after {
+  display: none;
+  content: "";
+  position: absolute;
+  width: 6px;
+  height: 11px;
+  border-right: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  bottom: 15px;
+  right: 19px;
+  -webkit-transform: translate(-50%, -50%) rotateZ(40deg);
+          transform: translate(-50%, -50%) rotateZ(40deg);
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li input[type=radio] {
+  display: none;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li input[type=radio]:checked + label {
+  border: 1px solid #FF6400;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li input[type=radio]:checked + label:before {
+  background: #6EA820;
+  border: 1px solid #6EA820;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon ul li input[type=radio] + label::after {
+  display: block;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong h3 {
+  font-family: SVN-Poppins-Medium;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 19px;
+  color: #5A5A5A;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong .custom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 70px;
+  height: 45px;
+  padding: 0;
+  background: #EBEBEB;
+  border-radius: 6px;
+  margin: 0 15px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong .custom input[type=text] {
+  color: #000;
+  height: 100%;
+  font-size: 14px;
+  margin: 0;
+  width: 100%;
+  padding: 0 2px;
+  text-align: center;
+  min-height: unset;
+  display: block;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border-radius: 0px;
+  border: none;
+  background: #EBEBEB;
+  outline: 0;
+  font-family: SVN-Poppins-Medium;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong .custom .nut {
+  display: -ms-grid;
+  display: grid;
+  width: 20%;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong .custom .nut button {
+  height: 3px;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+  margin-top: 12px;
+  color: #8C8C8C;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong .custom .nut button:nth-child(1) {
+  margin-bottom: -5px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong .custom .nut button:nth-child(2) {
+  margin-bottom: 5px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong .item-buy {
+  margin-left: 10px;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong .item-buy a {
+  text-decoration: none;
+}
+.site47_prodel_col12_chitietsanpham .item_Information .detail .tuychon .soluong .item-buy a img {
+  margin-right: 15px;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp {
+  width: 100%;
+  border-bottom: 1px solid #FF6400;
+  margin-bottom: 25px;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .back {
+  display: none;
+  position: relative;
+  width: 25px;
+  height: 45px;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .back::before {
+  position: absolute;
+  content: "";
+  bottom: 11px;
+  width: 16px;
+  height: 16px;
+  border-top: 4px solid #E0E0E0;
+  border-right: 4px solid #E0E0E0;
+  left: 0;
+  -webkit-transform: rotateZ(-135deg);
+          transform: rotateZ(-135deg);
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .back:hover::before {
+  border-top: 4px solid #FF6400;
+  border-right: 4px solid #FF6400;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .continue {
+  display: none;
+  position: relative;
+  width: 25px;
+  height: 45px;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .continue::before {
+  position: absolute;
+  content: "";
+  bottom: 11px;
+  width: 16px;
+  height: 16px;
+  border-top: 4px solid #E0E0E0;
+  border-right: 4px solid #E0E0E0;
+  right: 0;
+  -webkit-transform: rotateZ(45deg);
+          transform: rotateZ(45deg);
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .continue:hover::before {
+  border-top: 4px solid #FF6400;
+  border-right: 4px solid #FF6400;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label {
+  position: relative;
+  cursor: pointer;
+  margin-bottom: 5px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label::after {
+  position: absolute;
+  content: "";
+  bottom: -7px;
+  left: 0;
+  height: 5px;
+  width: 0;
+  background-color: #FF6400;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label span {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 22px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #333333;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs .active::after {
+  width: 100%;
+}
+.site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs .active span {
+  font-family: SVN-Poppins-Bold;
+  font-weight: bold;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content {
+  display: none;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single p {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+  color: #4F4F4F;
+  margin-bottom: 20px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .motachitiet {
+  width: 100%;
+  height: 855px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  position: relative;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .motachitiet .title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 20px;
+  padding: 7px 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .motachitiet .title h3 {
+  font-family: SVN-Poppins-Medium;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  color: #333333;
+  margin: 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .motachitiet h3 {
+  font-family: SVN-Poppins-Medium;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 150%;
+  color: #333333;
+  margin-bottom: 20px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .motachitiet .image {
+  text-align: center;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .motachitiet .click_more {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(61.95%, rgba(255, 255, 255, 0)), to(#FFFFFF));
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 61.95%, #FFFFFF 100%);
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: end;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .thongsokythuat {
+  margin-bottom: 35px;
+  height: 750px;
+  position: relative;
+  overflow: hidden;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .thongsokythuat .title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 10px;
+  padding: 7px 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .thongsokythuat .title h3 {
+  font-family: SVN-Poppins-Medium;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  color: #333333;
+  margin: 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .thongsokythuat .tab {
+  width: 100%;
+  padding: 0 60px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .thongsokythuat .tab tr {
+  width: 100%;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .thongsokythuat .tab tr .tt {
+  width: 50%;
+  border: 1px solid #E0E0E0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 12px 0;
+  padding-left: 25px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .thongsokythuat .click_more {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(38.06%, rgba(255, 255, 255, 0)), color-stop(91.09%, #FFFFFF));
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 38.06%, #FFFFFF 91.09%);
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: end;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .hinhanhvasanpham {
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 35px;
+  height: 664px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .hinhanhvasanpham .title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 15px;
+  padding: 7px 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .hinhanhvasanpham .title h3 {
+  font-family: SVN-Poppins-Medium;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  color: #333333;
+  margin: 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .hinhanhvasanpham .item-video {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .hinhanhvasanpham .item-video h3 {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 150%;
+  color: #4F4F4F;
+  padding: 10px 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .hinhanhvasanpham .click_more {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(45.71%, rgba(255, 255, 255, 0)), color-stop(94.07%, #FFFFFF));
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 45.71%, #FFFFFF 94.07%);
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: end;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .concent {
+  width: 100%;
+  border-bottom: 1px solid #E0E0E0;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .concent .thanhpho {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 10px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .concent .thanhpho .tplap {
+  width: 308px;
+  height: 84px;
+  border: 1px dashed #FF6400;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-align: center;
+  padding: 4px;
+  cursor: pointer;
+  margin: 0 15px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .concent .thanhpho .tplap p {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+  text-align: center;
+  color: #FF6400;
+  padding: 10px 0;
+  margin: 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .concent .thanhpho .tplap a {
+  font-family: SVN-Poppins-Medium;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 24px;
+  text-align: center;
+  color: #FF6400;
+  text-decoration: none;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .concent h3 {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+  color: #333333;
+  text-align: center;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .concent h3 a {
+  text-decoration: none;
+  font-family: SVN-Poppins-Medium;
+  font-weight: bold;
+  color: #FF6400;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham {
+  margin-bottom: 35px;
+  border-bottom: 1px solid #E0E0E0;
+  height: 1422px;
+  overflow: hidden;
+  position: relative;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 35px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .title h3 {
+  font-family: SVN-Poppins-Medium;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  color: #333333;
+  margin: 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 35px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .tongquan {
+  padding-right: 50px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .tongquan h2 {
+  font-family: SVN-Poppins-Bold;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 50px;
+  color: #FF6400;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .tongquan .star {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .tongquan p {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  text-align: center;
+  color: #4F4F4F;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet {
+  padding-left: 50px;
+  border-left: 1px solid #E9E9E9;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet .phantram {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+  margin-bottom: 10px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet .phantram span {
+  font-family: SVN-Poppins-Regular;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  color: #4F4F4F;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet .phantram span:nth-child(1) {
+  margin-right: 12px;
+  width: 3px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet .phantram span:nth-child(2) {
+  margin-right: 15px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet .phantram span:nth-child(4) {
+  position: relative;
+  margin-right: 30px;
+  color: #6EA820;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet .phantram span:nth-child(4)::after {
+  position: absolute;
+  content: "";
+  width: 1px;
+  height: 11px;
+  background: #4F4F4F;
+  right: -15px;
+  top: 6px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet .phantram .w3-border {
+  position: relative;
+  width: 224px;
+  height: 18px;
+  background: #aedc6f75;
+  margin-right: 13px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet .phantram .w3-border .w3-oran {
+  background: #6EA820;
+  border-radius: 2px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px 0;
+  padding-left: 15px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background: #F8F8F8;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment .comment-n .bold {
+  font-family: SVN-Poppins-Bold;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 17px;
+  color: #494D52;
+  padding-right: 5px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment .comment-n .light {
+  font-family: SVN-Poppins-light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  color: #494D52;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment .check-cmt {
+  padding-right: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment .check-cmt span {
+  font-family: SVN-Poppins-light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  color: #494D52;
+  padding-right: 25px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment .check-cmt .item-cmt {
+  position: relative;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment .check-cmt .item-cmt::before {
+  position: absolute;
+  content: url("../../images/site47/comt.png");
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+  pointer-events: none;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment .check-cmt .item-cmt select {
+  font-family: SVN-Poppins-light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 16px;
+  color: #494D52;
+  padding: 7px 25px 7px 7px;
+  background: #FFFFFF;
+  border: 1px solid #BABABA;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 3px;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  outline: 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-input-comment {
+  width: 100%;
+  padding: 25px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-input-comment .image_cmt {
+  width: 102px;
+  height: 102px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-input-comment .image_cmt img {
+  width: 100%;
+  height: 100%;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-input-comment input {
+  font-family: SVN-Poppins-light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  color: #494D52;
+  width: 92%;
+  outline: 0;
+  padding: 0 0 65px 25px;
+  border: 1px solid #BABABA;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .comment_in_fb {
+  padding: 15px 0;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #E9E9E9;
+  border-top: 1px solid #E9E9E9;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .comment_in_fb img {
+  margin-top: -11px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .comment_in_fb a {
+  font-family: SVN-Poppins-light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+  text-decoration: none;
+  padding-left: 10px;
+  color: #4267B2;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment {
+  width: 100%;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment {
+  margin-bottom: 25px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .avt {
+  width: 77px;
+  height: 77px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .avt img {
+  width: 100%;
+  height: 100%;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt {
+  width: 80%;
+  padding-left: 15px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt h3 {
+  font-family: SVN-Poppins-Bold;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 15px;
+  color: #333333;
+  margin-bottom: 12px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt p {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 15px;
+  color: #4F4F4F;
+  margin-bottom: 12px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt .nut {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt .nut .nutrep {
+  margin-right: 25px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt .nut .nutrep .rep {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 12px;
+  color: #000000;
+  cursor: pointer;
+  position: relative;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt .nut .nutrep .rep img {
+  position: absolute;
+  top: -1px;
+  left: 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt .nut .nutrep .rep input[type=text] {
+  width: 70px;
+  -webkit-transition: width 0.35s ease-in-out;
+  transition: width 0.35s ease-in-out;
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 12px;
+  color: #000000;
+  outline: 0;
+  padding-left: 35px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt .nut .nutrep .rep input[type=text]:focus {
+  width: 250px;
+  font-size: 13px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt .nut button {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 12px;
+  color: #000000;
+  background: #fff;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .rep-comment {
+  width: 100%;
+  padding-left: 90px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .rep-comment .comment-qtv {
+  background: #F6F6F6;
+  padding: 10px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .rep-comment .comment-qtv .qtv {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .rep-comment .comment-qtv .qtv .avt-qtv {
+  width: 22px;
+  height: 22px;
+  margin-right: 15px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .rep-comment .comment-qtv .qtv .avt-qtv img {
+  width: 100%;
+  height: 100%;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .rep-comment .comment-qtv .qtv h3 {
+  font-family: SVN-Poppins-Bold;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 15px;
+  color: #333333;
+  margin-right: 50px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .rep-comment .comment-qtv .qtv p {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 10px;
+  color: #FFFFFF;
+  padding: 3px 7px;
+  background: #FF6400;
+  border-radius: 3px;
+  margin: 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .rep-comment p {
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 24px;
+  color: #4F4F4F;
+  padding-left: 35px;
+  margin: 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .xemthem-cmt {
+  padding: 50px 0;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .xemthem-cmt .butt {
+  border: 1px solid #FF6400;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 50px;
+  text-decoration: none;
+  font-family: SVN-Poppins-Light;
+  margin: auto;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .xemthem-cmt .butt img {
+  margin-left: 5px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .click_more {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(40.95%, rgba(255, 255, 255, 0)), color-stop(93.01%, #FFFFFF));
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 40.95%, #FFFFFF 93.01%);
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: end;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .click_more .danhgia {
+  font-family: SVN-Poppins-Light;
+  margin-bottom: 50px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .click_more .danhgia img {
+  margin-left: 5px;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .auto {
+  height: auto;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .content .single .auto .click_more {
+  display: none;
+}
+.site47_prodel_col12_chitietsanpham .main_product .contents .z-index {
+  display: block;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan {
+  margin-bottom: 35px;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan h3 {
+  font-family: SVN-Poppins-Bold;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 34px;
+  text-transform: uppercase;
+  color: #333333;
+  margin-bottom: 50px;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .slick-prev {
+  top: 41%;
+  left: 0;
+  z-index: 1;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .slick-prev::before {
+  content: url("../../images/site47/button-left.png");
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .slick-next {
+  top: 41%;
+  right: 2.8%;
+  z-index: 1;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .slick-next::before {
+  content: url("../../images/site47/button-right.png");
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham {
+  position: relative;
+  width: 20%;
+  padding: 0 25px;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .sale {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .sale img {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .image {
+  padding: 0 17px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .image img {
+  width: 100%;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .title {
+  margin-bottom: 10px;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .title a {
+  text-decoration: none;
+  font-family: SVN-Poppins-Light;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 19px;
+  color: #333333;
+  text-transform: uppercase;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .title a:first-child {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .title a:last-child {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .giaban {
+  margin-bottom: 10px;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .giaban p {
+  font-style: normal;
+  font-weight: normal;
+  line-height: 140%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-text-decoration-line: line-through;
+          text-decoration-line: line-through;
+  color: #666666;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .giaban h3 {
+  font-weight: bold;
+  color: #6EA820;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .danhgia {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 15px;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .danhgia .star {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .danhgia .star img {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .danhgia .view p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12.2154px;
+  line-height: 210%;
+  color: #8C8C8C;
+}
+
+@media (max-width: 1199px) {
+  .site47_prodel_col12_chitietsanpham .item_Information .column {
+    width: 60%;
+  }
+  .site47_prodel_col12_chitietsanpham .item_Information .detail {
+    width: 40%;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp {
+    border: none;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs {
+    overflow-x: auto;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs::-webkit-scrollbar {
+    width: 0;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label {
+    margin-right: 35px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(1) {
+    min-width: 156px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(2) {
+    min-width: 216px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(3) {
+    min-width: 315px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(4) {
+    min-width: 221px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(5) {
+    min-width: 94px;
+    margin-right: 0;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label::after {
+    bottom: -5px;
+  }
+}
+@media (max-width: 991px) {
+  .site47_prodel_col12_chitietsanpham .item_Information .column {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 50px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_Information .column .slider-single {
+    padding: 35px 50px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_Information .detail {
+    width: 100%;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .motachitiet .image {
+    width: 100%;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .motachitiet .image img {
+    width: 100%;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .hinhanhvasanpham .item-video iframe {
+    width: 100%;
+    height: 350px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .site47_prodel_col12_chitietsanpham .item_Information .column {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 50px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_Information .column .slider-single {
+    padding: 35px 0;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label {
+    margin-right: 25px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(1) {
+    min-width: 142px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(2) {
+    min-width: 197px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(3) {
+    min-width: 286px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(4) {
+    min-width: 201px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(5) {
+    min-width: 84px;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .thongsokythuat .tab {
+    padding: 0 15px;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .hinhanhvasanpham .item-video iframe {
+    height: 280px;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .concent .thanhpho {
+    display: -ms-grid;
+    display: grid;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .concent .thanhpho .tplap {
+    margin-bottom: 25px;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso {
+    display: -ms-grid;
+    display: grid;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .tongquan {
+    padding: 0;
+    margin-bottom: 15px;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet {
+    border: none;
+    padding: 0;
+    margin-bottom: 55px;
+  }
+}
+@media screen and (max-width: 575px) {
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    padding: 0 25px;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .back {
+    display: block;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .continue {
+    display: block;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label {
+    margin-right: 0;
+    width: 100%;
+    display: none;
+    text-align: center;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(1), .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(2), .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(3), .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(4), .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs label:nth-child(5) {
+    min-width: auto;
+  }
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp .van-tabs .active {
+    display: block;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet .phantram .w3-border {
+    width: 179px;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment .check-cmt span {
+    padding-right: 10px;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt .nut .nutrep .rep input[type=text]:focus {
+    width: 150px;
+    font-size: 11px;
+  }
+  .site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .slick-next {
+    right: 32px;
+  }
+}
+@media screen and (max-width: 409px) {
+  .site47_prodel_col12_chitietsanpham .item_label_ctsp {
+    padding: 0 10px;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .tongthongso .chitiet .phantram .w3-border {
+    width: 120px;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment {
+    display: -ms-grid;
+    display: grid;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .item-comment .comment-n {
+    margin-bottom: 15px;
+  }
+  .site47_prodel_col12_chitietsanpham .main_product .contents .content .single .danhgiasanpham .list-comment .item_comment .comment .cmt .nut .nutrep .rep input[type=text]:focus {
+    width: 90px;
+    font-size: 11px;
+  }
+  .site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .title a:first-child {
+    -webkit-line-clamp: 1;
+  }
+  .site47_prodel_col12_chitietsanpham .sanphamlienquan .slide-samphammoi .item-sanpham .danhgia {
+    display: -ms-grid;
+    display: grid;
+  }
+}

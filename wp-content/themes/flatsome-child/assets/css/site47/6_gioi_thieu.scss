@@ -1,0 +1,761 @@
+.site47_intr_col0_gioithieu {
+    overflow: hidden;
+    width: 100%;
+    padding-top: 15px;
+
+    .breadcrumb {
+        padding: 25px 0;
+        background-color: #FFFFFF;
+
+        a {
+            text-decoration: none;
+        }
+    }
+
+    .item-gioithieu {
+        .item-product {
+            display: flex;
+            align-items: center;
+            margin-bottom: 50px;
+
+            .left {
+                width: 53%;
+                padding-right: 50px;
+
+                h3 {
+                    font-family: SVN-Poppins-Medium;
+                    font-style: normal;
+                    font-weight: bold;
+                    line-height: 150%;
+                    color: #333333;
+                    margin-bottom: 25px;
+                }
+
+                p {
+                    font-family: SVN-Poppins-Regular;
+                    font-style: normal;
+                    font-weight: normal;
+                    line-height: 24px;
+                    color: #333333;
+                    text-align: justify;
+
+                    a {
+                        text-decoration: none;
+                        font-family: SVN-Poppins-Regular;
+                        font-style: normal;
+                        font-weight: bold;
+                        color: #FF6400;
+                    }
+                }
+
+                .list-tt {
+                    ul {
+                        display: flex;
+                        flex-wrap: wrap;
+                        padding-left: 25px;
+
+                        li {
+                            width: 50%;
+                            margin-bottom: 10px;
+                            font-family: SVN-Poppins-Regular;
+
+                            &::before {
+                                content: "\2022";
+                                color: red;
+                                font-weight: bold;
+                                display: inline-block;
+                                width: 1em;
+                                margin-left: -1em;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .right {
+                width: 47%;
+                overflow: hidden;
+
+                .slide-one {
+                    height: 362px;
+                    width: 100%;
+
+                    .slick-prev {
+                        top: auto;
+                        left: auto;
+                        bottom: 11px;
+                        right: 66px;
+                        z-index: 1;
+
+                        &::after {
+                            display: none;
+                            content: url("../../images/site47/but-left2.png");
+                        }
+
+                        &::before {
+                            content: url("../../images/site47/but-left1.png");
+                        }
+
+                        &:hover {
+                            &::after {
+                                display: block;
+                            }
+
+                            &::before {
+                                display: none;
+                            }
+                        }
+                    }
+
+                    .slick-next {
+                        top: auto;
+                        left: auto;
+                        bottom: 11px;
+                        right: 23px;
+                        z-index: 1;
+
+                        &::after {
+                            display: none;
+                            content: url("../../images/site47/but-right2.png");
+                        }
+
+                        &::before {
+                            content: url("../../images/site47/but-right1.png");
+                        }
+
+                        &:hover {
+                            &::after {
+                                display: block;
+                            }
+
+                            &::before {
+                                display: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .item-list-gt {
+        width: 100%;
+        background-image: url('../../images/site47/bg_list_gioithieu.png');
+        background-size: 100% 100%;
+
+        .list-gt {
+            width: 100%;
+            padding: 50px 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            .ligt {
+                text-align: center;
+                cursor: pointer;
+
+                &:nth-child(1) {
+                    min-width: 270px;
+                }
+
+                &:nth-child(2) {
+                    min-width: 157px;
+                }
+
+                &:nth-child(3) {
+                    min-width: 156px;
+                }
+
+                &:nth-child(4) {
+                    min-width: 212px;
+                }
+
+                .logo {
+                    margin-bottom: 45px;
+                }
+
+                .stt {
+                    h3 {
+                        font-family: SVN-Poppins-Light;
+                        font-style: normal;
+                        font-weight: bold;
+                        line-height: 150%;
+                        color: #FFFFFF;
+                    }
+                }
+            }
+        }
+    }
+
+    .item-gt-gray1 {
+        width: 100%;
+        background: #F6F6F6;
+        padding: 55px 0;
+
+        .item-product {
+            display: flex;
+            justify-content: space-between;
+
+            .left {
+                width: 47%;
+                overflow: hidden;
+
+                .slide-one {
+                    height: 362px;
+                    width: 100%;
+
+                    .slick-prev {
+                        top: auto;
+                        left: auto;
+                        bottom: 11px;
+                        right: 66px;
+                        z-index: 1;
+
+                        &::after {
+                            display: none;
+                            content: url("../../images/site47/but-left2.png");
+                        }
+
+                        &::before {
+                            content: url("../../images/site47/but-left1.png");
+                        }
+
+                        &:hover {
+                            &::after {
+                                display: block;
+                            }
+
+                            &::before {
+                                display: none;
+                            }
+                        }
+                    }
+
+                    .slick-next {
+                        top: auto;
+                        left: auto;
+                        bottom: 11px;
+                        right: 23px;
+                        z-index: 1;
+
+                        &::after {
+                            display: none;
+                            content: url("../../images/site47/but-right2.png");
+                        }
+
+                        &::before {
+                            content: url("../../images/site47/but-right1.png");
+                        }
+
+                        &:hover {
+                            &::after {
+                                display: block;
+                            }
+
+                            &::before {
+                                display: none;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .right {
+                width: 53%;
+                padding-left: 50px;
+
+                .item_label_gt {
+                    width: 100%;
+                    margin-bottom: 25px;
+
+                    .back {
+                        display: none;
+                        position: relative;
+                        width: 25px;
+                        height: 45px;
+
+                        &::before {
+                            position: absolute;
+                            content: "";
+                            bottom: 11px;
+                            width: 16px;
+                            height: 16px;
+                            border-top: 4px solid #E0E0E0;
+                            border-right: 4px solid #E0E0E0;
+                            left: 0;
+                            transform: rotateZ(-135deg);
+                        }
+
+                        &:hover {
+                            &::before {
+                                border-top: 4px solid #FF6400;
+                                border-right: 4px solid #FF6400;
+                            }
+                        }
+                    }
+
+                    .continue {
+                        display: none;
+                        position: relative;
+                        width: 25px;
+                        height: 45px;
+
+                        &::before {
+                            position: absolute;
+                            content: "";
+                            bottom: 11px;
+                            width: 16px;
+                            height: 16px;
+                            border-top: 4px solid #E0E0E0;
+                            border-right: 4px solid #E0E0E0;
+                            right: 0;
+                            transform: rotateZ(45deg);
+                        }
+
+                        &:hover {
+                            &::before {
+                                border-top: 4px solid #FF6400;
+                                border-right: 4px solid #FF6400;
+                            }
+                        }
+                    }
+
+                    .van-tabs {
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        background: #E0E0E0;
+                        margin-bottom: 25px;
+                        height: 55px;
+
+                        label {
+                            width: 33.3333%;
+                            height: 100%;
+                            display: flex;
+                            align-self: center;
+                            justify-content: center;
+                            cursor: pointer;
+                            transition: all 0.3s;
+                            background: #E0E0E0;
+                            margin: 0;
+
+                            span {
+                                font-family: SVN-Poppins-Medium;
+                                font-style: normal;
+                                font-weight: normal;
+                                line-height: 53px;
+                                color: #333333;
+                            }
+                        }
+
+                        .active {
+                            background: #FF6400;
+
+                            span {
+                                font-family: SVN-Poppins-Bold;
+                                font-weight: bold;
+                                color: #FFFFFF;
+                            }
+                        }
+                    }
+                }
+
+                .main_product {
+                    .contents {
+                        .content {
+                            display: none;
+
+                            .single {
+                                p {
+                                    font-family: SVN-Poppins-Regular;
+                                    font-style: normal;
+                                    font-weight: normal;
+                                    line-height: 24px;
+                                    color: #333333;
+                                    text-align: justify;
+                                    margin-bottom: 15px;
+                                }
+                            }
+                        }
+
+                        .z-index {
+                            display: block;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .item-gt-white1 {
+        width: 100%;
+        background: #FFFFFF;
+        padding: 55px 0;
+
+        .item-product {
+            margin: 0 -15px;
+
+            .framio {
+                width: 33.333%;
+                padding: 0 14px;
+
+                .image {
+                    width: 100%;
+                    margin-bottom: 15px;
+
+                    img {
+                        width: 100%;
+                    }
+                }
+
+                .detail {
+                    cursor: pointer;
+
+                    h3 {
+                        font-family: SVN-Poppins-Bold;
+                        font-style: normal;
+                        font-weight: bold;
+                        line-height: 150%;
+                        color: #FF6400;
+                        margin-bottom: 10px;
+                    }
+
+                    p {
+                        font-family: SVN-Poppins-Regular;
+                        font-style: normal;
+                        font-weight: normal;
+                        line-height: 24px;
+                        color: #333333;
+                        margin-bottom: 7px;
+                        text-align: justify;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.site47_form_col0_guiyclienhe {
+    overflow: hidden;
+    background: #FAFAFA;
+    position: relative;
+    z-index: 1;
+    // background-image: url('../../images/site47/banner-yeucaulienhe.png');
+    // background-size: 100% 100%;
+
+    .backgroud {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: auto;
+        z-index: -1;
+
+        img {
+            z-index: -1;
+        }
+    }
+
+    // .container_fix {
+    //     position: relative;
+    //     z-index: 1;
+
+    //     &::before {
+    //         position: absolute;
+    //         content: url('../../images/site47/image22.png');
+    //         bottom: 0;
+    //         right: 0;
+    //         background-blend-mode: multiply;
+    //         z-index: -1;
+    //     }
+    // }
+
+    .form {
+        width: 499px;
+        height: auto;
+        padding: 100px 0;
+
+        h3 {
+            font-family: SVN-Poppins-Bold;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 150%;
+            color: #333333;
+            margin-bottom: 25px;
+            text-transform: uppercase;
+        }
+
+        p {
+            font-family: SVN-Poppins-Regular;
+            font-style: normal;
+            font-weight: normal;
+            line-height: 24px;
+            color: #333333;
+            margin-bottom: 15px;
+        }
+
+        form {
+            input,
+            textarea {
+                width: 100%;
+                padding: 11.5px;
+                padding-left: 50px;
+                outline: 0;
+                border: 0;
+                background: #FFFFFF;
+                border: 1px solid #F1F1F1;
+                box-sizing: border-box;
+                margin-bottom: 10px;
+                font-family: SVN-Poppins-Regular;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 16px;
+                line-height: 150%;
+                color: #000000;
+            }
+
+            input::placeholder,
+            textarea::placeholder {
+                font-family: SVN-Poppins-Regular;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 16px;
+                line-height: 24px;
+                color: #828282;
+
+            }
+
+            input:nth-child(1) {
+                background-image: url('../../images/site47/user1.png');
+                background-repeat: no-repeat;
+                background-position: 10px 10px;
+            }
+
+            input:nth-child(2) {
+                width: 48%;
+                background-image: url('../../images/site47/phone_outline.png');
+                background-repeat: no-repeat;
+                background-position: 10px 10px;
+            }
+
+            input:nth-child(3) {
+                width: 48%;
+                float: right;
+                background-image: url('../../images/site47/mail1.png');
+                background-repeat: no-repeat;
+                background-position: 10px 10px;
+            }
+
+            textarea {
+                background-image: url('../../images/site47/message_writing.png');
+                background-repeat: no-repeat;
+                background-position: 10px 10px;
+                resize: none;
+                padding-bottom: 58px;
+                margin-bottom: 20px;
+            }
+
+            .gui {
+                width: 100%;
+
+                button {
+                    width: 174px;
+                    height: 45px;
+                    font-family: SVN-Poppins-Light;
+                    font-style: normal;
+                    font-weight: bold;
+                    font-size: 15.7161px;
+                    line-height: 17px;
+                    color: #FFFFFF;
+                    background: #FF6400;
+                    border: 1.12258px solid #FF6400;
+                    box-sizing: border-box;
+                    border-radius: 56.129px;
+                    text-align: center;
+
+                    img {
+                        padding-left: 10px;
+
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media (max-width: 1199px) {
+    .site47_intr_col0_gioithieu {
+        .item-gioithieu {
+            .item-product {
+                flex-wrap: wrap;
+                justify-content: center;
+
+                .left {
+                    width: 100%;
+                    margin-bottom: 35px;
+                    padding: 0;
+                }
+
+                .right {
+                    width: 582px;
+                }
+            }
+        }
+
+        .item-gt-gray1 {
+            .item-product {
+                flex-wrap: wrap;
+                justify-content: center;
+
+                .left {
+                    order: 2;
+                    width: 582px;
+                }
+
+                .right {
+                    order: 1;
+                    width: 100%;
+                    margin-bottom: 35px;
+                    padding: 0;
+                }
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: 991px) {
+    .site47_intr_col0_gioithieu {
+        .item-list-gt {
+            .list-gt {
+                overflow-x: auto;
+                // &::-webkit-scrollbar {
+                //     width: 0;
+                // }
+
+                .ligt {
+                    margin-right: 80px;
+                }
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .site47_intr_col0_gioithieu {
+        .item-gioithieu {
+            .item-product {
+                .right {
+                    width: 100%;
+                }
+            }
+        }
+
+        .item-list-gt {
+            .list-gt {
+                .ligt {
+                    margin-right: 50px;
+                }
+            }
+        }
+
+        .item-gt-gray1 {
+            .item-product {
+                .left {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: 526px) {
+    .site47_intr_col0_gioithieu {
+        .item-list-gt {
+            .list-gt {
+                .ligt {
+                    margin-right: 20px;
+                }
+            }
+        }
+    }
+
+    .site47_form_col0_guiyclienhe {
+        .form {
+            width: 100%;
+            height: auto;
+            padding: 50px 0;
+        }
+    }
+}
+
+
+@media screen and (max-width: 506px) {
+    .site47_intr_col0_gioithieu {
+        .item-gioithieu {
+            .item-product {
+                .left {
+                    .list-tt {
+                        ul {
+                            li {
+                                width: 100%;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .item-gt-gray1 {
+            .item-product {
+                .right {
+                    .item_label_gt {
+                        display: flex;
+                        justify-content: space-between;
+
+                        .back {
+                            display: block;
+                        }
+
+                        .continue {
+                            display: block;
+                        }
+
+                        .van-tabs {
+                            width: 194px;
+                            background: repeat;
+                            justify-content: center;
+
+                            label {
+                                width: 100%;
+                                display: none;
+                                text-align: center;
+                            }
+
+                            .active {
+                                display: block;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .site47_form_col0_guiyclienhe {
+        .form {
+            form {
+                input {
+
+                    &:nth-child(2),
+                    &:nth-child(3) {
+                        width: 100%;
+                        float: none;
+                    }
+                }
+            }
+        }
+    }
+}

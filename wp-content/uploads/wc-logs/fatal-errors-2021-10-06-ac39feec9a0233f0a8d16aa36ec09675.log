@@ -1,0 +1,209 @@
+2021-10-06T04:24:09+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 52
+
+2021-10-06T04:24:09+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 52
+
+2021-10-06T04:24:09+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 52
+
+2021-10-06T04:24:10+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 52
+
+2021-10-06T04:24:11+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 52
+
+2021-10-06T04:24:11+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 52
+
+2021-10-06T04:25:41+00:00 CRITICAL Uncaught Error: Undefined constant "THEME_URL_URI" in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(292): load_theme_assets('')
+#1 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\HaNoiLab\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\HaNoiLab\wp-includes\script-loader.php(2027): do_action('wp_enqueue_scri...')
+#4 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(292): wp_enqueue_scripts('')
+#5 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\HaNoiLab\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\HaNoiLab\wp-includes\general-template.php(3009): do_action('wp_head')
+#8 C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\header.php(10): wp_head()
+#9 C:\xampp\htdocs\HaNoiLab\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\HaNoiLab\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#11 C:\xampp\htdocs\HaNoiLab\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#12 C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\index.php(8): get_header()
+#13 C:\xampp\htdocs\HaNoiLab\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#14 C:\xampp\htdocs\HaNoiLab\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\HaNoiLab\index.php(17): require('C:\\xampp\\htdocs...')
+#16 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T04:25:57+00:00 CRITICAL Uncaught Error: Undefined constant "THEME_URL_URI" in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(292): load_theme_assets('')
+#1 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\HaNoiLab\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\HaNoiLab\wp-includes\script-loader.php(2027): do_action('wp_enqueue_scri...')
+#4 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(292): wp_enqueue_scripts('')
+#5 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\HaNoiLab\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\HaNoiLab\wp-includes\general-template.php(3009): do_action('wp_head')
+#8 C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\header.php(10): wp_head()
+#9 C:\xampp\htdocs\HaNoiLab\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\HaNoiLab\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#11 C:\xampp\htdocs\HaNoiLab\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#12 C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\index.php(8): get_header()
+#13 C:\xampp\htdocs\HaNoiLab\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#14 C:\xampp\htdocs\HaNoiLab\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\HaNoiLab\index.php(17): require('C:\\xampp\\htdocs...')
+#16 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T04:25:57+00:00 CRITICAL Uncaught Error: Undefined constant "THEME_URL_URI" in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(292): load_theme_assets('')
+#1 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\HaNoiLab\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\HaNoiLab\wp-includes\script-loader.php(2027): do_action('wp_enqueue_scri...')
+#4 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(292): wp_enqueue_scripts('')
+#5 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#6 C:\xampp\htdocs\HaNoiLab\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#7 C:\xampp\htdocs\HaNoiLab\wp-includes\general-template.php(3009): do_action('wp_head')
+#8 C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\header.php(10): wp_head()
+#9 C:\xampp\htdocs\HaNoiLab\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\HaNoiLab\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#11 C:\xampp\htdocs\HaNoiLab\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#12 C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\index.php(8): get_header()
+#13 C:\xampp\htdocs\HaNoiLab\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#14 C:\xampp\htdocs\HaNoiLab\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\HaNoiLab\index.php(17): require('C:\\xampp\\htdocs...')
+#16 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:02:13+00:00 CRITICAL Uncaught Error: Undefined constant "LEXUS_PLUGIN_DIR" in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:04:14+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/HaNoiLab/wp-content/themes/flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:06:15+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/HaNoiLab/wp-content/themes/flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:08:16+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/HaNoiLab/wp-content/themes/flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:10:17+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/HaNoiLab/wp-content/themes/flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:10:24+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/HaNoiLab/wp-content/themes/flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\HaNoiLab\wp-admin\upload.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:10:24+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/HaNoiLab/wp-content/themes/flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\HaNoiLab\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:10:26+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/HaNoiLab/wp-content/themes/flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:10:28+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/HaNoiLab/wp-content/themes/flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\HaNoiLab\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:10:29+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/HaNoiLab/wp-content/themes/flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\HaNoiLab\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:10:33+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/HaNoiLab/wp-content/themes/flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\HaNoiLab\wp-admin\post-new.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:11:57+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child/ux-builder/ux-builder.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php:7
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-settings.php(528): include()
+#1 C:\xampp\htdocs\HaNoiLab\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\HaNoiLab\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\HaNoiLab\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\HaNoiLab\wp-admin\post-new.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome-child\functions.php on line 7
+
+2021-10-06T05:15:23+00:00 CRITICAL Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, WP_Error given in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\Terms.php:56
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\Terms.php(56): array_map(Object(Closure), Object(WP_Error))
+#1 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(292): UxBuilder\Ajax\Terms->search_terms('')
+#2 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\HaNoiLab\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\HaNoiLab\wp-admin\admin-ajax.php(187): do_action('wp_ajax_ux_buil...')
+#5 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\Terms.php on line 56
+
+2021-10-06T05:19:17+00:00 CRITICAL Uncaught TypeError: array_map(): Argument #2 ($array) must be of type array, WP_Error given in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\Terms.php:56
+Stack trace:
+#0 C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\Terms.php(56): array_map(Object(Closure), Object(WP_Error))
+#1 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(292): UxBuilder\Ajax\Terms->search_terms('')
+#2 C:\xampp\htdocs\HaNoiLab\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\HaNoiLab\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\HaNoiLab\wp-admin\admin-ajax.php(187): do_action('wp_ajax_ux_buil...')
+#5 {main}
+  thrown in C:\xampp\htdocs\HaNoiLab\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\Terms.php on line 56
+
